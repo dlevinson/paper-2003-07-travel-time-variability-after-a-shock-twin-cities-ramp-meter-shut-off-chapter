@@ -1,6 +1,6 @@
 # License Status: Travel Time Variability After a Shock: The Case of the Twin Cities Ramp Meter Shut Off
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:04:48 AEST
 
 Recorded license/access note from the verified audit row: UMN Conservancy/publisher terms apply to the paper; add explicit license/provenance text for research-team-created code/data before GitHub upload.
 
